@@ -1,12 +1,12 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name: OAUTH - {Provider}
+## Project Name: OAUTH - {WordPress}
 
-### Author: Student/Group Name
+### Author: Michael George, Code 401d28
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/michaelageorge/17-oauth)
 * [back-end demo](http://xyz.com) 
 * [front-end demo](http://xyz.com)
 
